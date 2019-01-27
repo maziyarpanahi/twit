@@ -13,7 +13,7 @@
   ],
   "dependencies": {
     "bluebird": "3.5.3",
-    "mime": "2.4.0"
+    "mime": "2.4.0",
     "request": "2.88.0"
   },
   "devDependencies": {
